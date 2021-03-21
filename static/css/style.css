@@ -1,0 +1,14 @@
+
+
+body {
+    	background-color: #CCCCCC;
+   	font-style: oblique;
+	font-family: "Times New Roman", Times, serif;
+	color: #000080;
+  }
+
+  .jumbotron {
+    background-image: url("../images/bac.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
